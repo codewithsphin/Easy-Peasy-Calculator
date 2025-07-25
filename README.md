@@ -14,6 +14,8 @@ It supports basic arithmetic operations:
 
 git clone https://github.com/codewithsphin/Easy-Peasy-Calculator.git
 
+python calculator.py
+
 
 -------------------------------------------------------------------------
 
