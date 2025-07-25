@@ -1,4 +1,4 @@
-# Easy-Peaasy Calculator (Python)
+# Easy-Peasy Calculator (Python)
 
 This is a beginner-friendly command-line calculator built in Python.  
 It supports basic arithmetic operations:
